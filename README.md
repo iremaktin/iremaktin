@@ -2,7 +2,7 @@
 
 Ben yazılım test otomasyonu alanında kendini geliştirmeye odaklanmış bir QA Tester adayıyım. Java, Selenium, Appium, SQL, Postman gibi araçlarla projeler geliştiriyorum. Versiyon kontrolü için Git kullanıyor, Jira ve Trello gibi araçlarla süreç takibi yapıyorum. Çalışmalarımda Browser MCP, Copilot ve Cursor gibi yapay zeka destekli araçlardan da faydalanarak verimliliği artırıyorum.
 
-Hedefim; kalite odaklı, sürdürülebilir ve güvenilir yazılımlar geliştirilmesine katkı sağlamak. Öğrendiklerimi pekiştirmek, GitHub üzerindeki projelerimle hem kendi gelişimimi göstermek hem de sektöre değer katmak istiyorum.
+Hedefim; kalite odaklı, sürdürülebilir ve güvenilir yazılımlar geliştirilmesine katkı sağlamak. 
 
 Ayrıca ISTQB® Foundation Level sertifikasına sahibim. Bu alandaki teorik bilgi altyapımı belgeleyerek, test süreçlerine olan yaklaşımımı daha profesyonel bir zemine oturtuyorum.
 
