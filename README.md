@@ -6,8 +6,6 @@ Hedefim; kalite odaklı, sürdürülebilir ve güvenilir yazılımlar geliştiri
 
 Ayrıca ISTQB® Foundation Level sertifikasına sahibim. Bu alandaki teorik bilgi altyapımı belgeleyerek, test süreçlerine olan yaklaşımımı daha profesyonel bir zemine oturtuyorum.
 
-📫 Bana ulaşmak için:  
-- Mail: iremnuraktin@gmail.com
-- LinkedIn: https://www.linkedin.com/in/irem-nur-aktin-ba8212302/
+
 
 
